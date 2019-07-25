@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/testzz"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564094881894
+  job: 
+    job-name: "d3fkonxtestzz"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
